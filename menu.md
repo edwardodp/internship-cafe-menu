@@ -10,7 +10,7 @@ A generalist role will be extremely common at any Big Tech company (think MAANG)
 ### Definition & Skills
 Generalist roles will range from anything like full-stack development on a web application, tooling developer (i.e. making internal tools), to back-end development. These roles will almost always require some combination of Java, C#, Python, Go, JS, and SQL where language flexibility is an expectation. Generalist roles are not considered Specialist roles because you will be expected to work with larger architectures (meaning you would benefit from knowledge of Systems Design) where one components constantly interact.
 Take the below example of some appliation's back-end architecture:
-[!image](./images/system_microservices.jpg)
+[!image](https://github.com/edwardodp/internship-cafe-menu/blob/main/images/system_microservices.jpg)
 A senior developer would not be able to tell you whose architecture this is. Why? -- because the components are very similar to what you might expect out of any other company's application. Every company will have databses; every company will have caches; every company will have authorisation; every company will use APIs; I could go on forever. This is what defines the Generalist SWE role.
 
 ### Technical Interviews
